@@ -1,5 +1,4 @@
 # simple-todo-app
 
-A simple to do app converted from a design into a static HTML.
-
+A simple to do web app converted from a design.
 HTML CSS Bootstrap Javascript / Jquery
